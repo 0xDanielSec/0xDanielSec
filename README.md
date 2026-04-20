@@ -29,7 +29,7 @@
 ## 📌 Featured Projects
 
 ### 🦅 [Talon Scanner](https://github.com/0xDanielSec/talon-scanner)
-Agentic offensive security pipeline — intel, surface mapping, vuln scanning, impact chaining and PoC generation. Found and patched CVE in cilium/tetragon ([PR #4880](https://github.com/cilium/tetragon/pull/4880)).
+Agentic offensive security pipeline — intel, surface mapping, vuln scanning, impact chaining and PoC generation. Found and patched CVE in cilium/tetragon (https://github.com/cilium/tetragon/pull/4880)).
 
 ### ⚔️ [DUEL Framework](https://github.com/0xDanielSec/duel-framework)
 Adversarial LLM battle | Attacker vs Defender generating | MITRE ATT&CK telemetry and KQL detection rules
