@@ -28,8 +28,11 @@
 
 ## 📌 Featured Projects
 
-### 🔍 [Talon Scanner](https://github.com/0xDanielSec/talon-scanner)
+### 🦅 [Talon Scanner](https://github.com/0xDanielSec/talon-scanner)
 Open-source detection engineering tooling for automated threat detection workflows. Built with Python and integrated with Microsoft Sentinel.
+
+### ⚔️ [DUEL Framework](https://github.com/0xDanielSec/duel-framework)
+Adversarial LLM battle | Attacker vs Defender generating | MITRE ATT&CK telemetry and KQL detection rules
 
 ### 📋 [KQL Detection Rules](https://github.com/0xDanielSec/kql-detection-rules) *(coming soon)*
 A curated collection of production-ready KQL detection rules for Microsoft Sentinel, mapped to MITRE ATT&CK tactics and techniques.
