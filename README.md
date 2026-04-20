@@ -29,13 +29,25 @@
 ## 📌 Featured Projects
 
 ### 🦅 [Talon Scanner](https://github.com/0xDanielSec/talon-scanner)
-Open-source detection engineering tooling for automated threat detection workflows. Built with Python and integrated with Microsoft Sentinel.
+Agentic offensive security pipeline — intel, surface mapping, vuln scanning, impact chaining and PoC generation. Found and patched CVE in cilium/tetragon ([PR #4880](https://github.com/cilium/tetragon/pull/4880)).
 
 ### ⚔️ [DUEL Framework](https://github.com/0xDanielSec/duel-framework)
 Adversarial LLM battle | Attacker vs Defender generating | MITRE ATT&CK telemetry and KQL detection rules
 
 ### 📋 [KQL Detection Rules](https://github.com/0xDanielSec/kql-detection-rules) *(coming soon)*
 A curated collection of production-ready KQL detection rules for Microsoft Sentinel, mapped to MITRE ATT&CK tactics and techniques.
+
+---
+
+## 🔍 Security Research
+
+| Target | Finding | CWE | Status |
+|--------|---------|-----|--------|
+| cilium/tetragon | NULL Pointer Dereference | CWE-476 | ✅ Patched — [PR #4880](https://github.com/cilium/tetragon/pull/4880) |
+| cilium/cilium | CEL Expression DoS | CWE-94 | 🔄 Under disclosure |
+| google/kafel | Path Traversal | CWE-22 | 🔄 [PR open](https://github.com/0xDanielSec/kafel/tree/fix/path-traversal-include-resolution) |
+
+All findings go through responsible disclosure. PoCs are hard-constrained — no shells, no destructive payloads.
 
 ---
 
