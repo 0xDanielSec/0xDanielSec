@@ -45,7 +45,6 @@ A curated collection of production-ready KQL detection rules for Microsoft Senti
 |--------|---------|-----|--------|
 | cilium/tetragon | NULL Pointer Dereference | CWE-476 | ✅ Patched — [PR #4880](https://github.com/cilium/tetragon/pull/4880) |
 | cilium/cilium | CEL Expression DoS | CWE-94 | 🔄 Under disclosure |
-| google/kafel | Path Traversal | CWE-22 | 🔄 [PR open](https://github.com/0xDanielSec/kafel/tree/fix/path-traversal-include-resolution) |
 
 All findings go through responsible disclosure. PoCs are hard-constrained — no shells, no destructive payloads.
 
