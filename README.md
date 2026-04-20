@@ -28,7 +28,7 @@
 
 ## 📌 Featured Projects
 
-### 🔍 [Glasswing Scanner](https://github.com/0xDanielSec/glasswing-scanner) *(coming soon)*
+### 🔍 [Talon Scanner](https://github.com/0xDanielSec/talon-scanner)
 Open-source detection engineering tooling for automated threat detection workflows. Built with Python and integrated with Microsoft Sentinel.
 
 ### 📋 [KQL Detection Rules](https://github.com/0xDanielSec/kql-detection-rules) *(coming soon)*
