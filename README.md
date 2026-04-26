@@ -50,14 +50,6 @@ All findings go through responsible disclosure. PoCs are hard-constrained — no
 
 ---
 
-## 🏅 Certifications
-
-- CompTIA Security+ (SY0-701)
-- SC-200: Microsoft Security Operations Analyst *(In Progress)*
-- Google Cybersecurity Professional Certificate
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielgomes-cybersecurity)
